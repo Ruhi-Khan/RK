@@ -18,7 +18,6 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <div align="center">
@@ -50,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ruhi-Khan.Ruhi-Khan&left_color=chocolate&left_text=Profile%20views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ruhi-Khan.Ruhi-Khan&left_color=chocolate&left_text=Profile%40views"  />
 </div>
 
 ###
